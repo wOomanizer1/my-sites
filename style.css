@@ -314,6 +314,10 @@ border-radius: 10px;
 	display: flex;
 	justify-content: center;
 	align-items: center;
+} 
+
+.use-img {
+	padding-top: 48px;
 }
 
 .learn_more {
